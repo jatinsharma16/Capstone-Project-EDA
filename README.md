@@ -14,4 +14,5 @@ Some of the useful insights that are found during the project are:
 - The peak hotel booking periods are the months of July and August whereas the ADR is the maximum in August. 
 - The average stay length is around 10 days. 
 - The reason for special requests belongs to adults as well as the ADR.
+
 Finally, these are all conclusions that are made and will help the hotel owners to understand their customers more and provide better facilities to their guests. 
